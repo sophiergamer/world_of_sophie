@@ -1,1 +1,7 @@
 body { background: #ff69b4}
+a:link {color:aqua}
+a:visited {color:#fff000}
+img{width: 300px ;}
+h1{font-family: 'Luminari', fantasy;}
+a#clickEvent{font-family: 'Trattatello', fantasy;}
+ul#likes{font-family: 'courier';}
