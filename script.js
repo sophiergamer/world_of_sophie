@@ -5,3 +5,4 @@ document.querySelector('body').appendChild('h2')
 const isRevealed = getElementById('popover')
 
 function displayText(){isRevealed.style.display = 'block'; isRevealed.style.visibility='visible'}
+function hideText(){isRevealed.style.display = 'none'; isRevealed.style.visibility= 'hidden'}
