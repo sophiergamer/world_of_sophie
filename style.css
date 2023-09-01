@@ -3,6 +3,6 @@ a:link {color:aqua}
 a:visited {color:#fff000}
 img{width: 300px ;}
 h1{font-family: 'Luminari', fantasy;}
-p#clickEvent{font-family: 'Trattatello', fantasy; color:#8b008b; text-decoration: underline;}
+p#clickEvent{font-family: 'Trattatello', fantasy; color:#8b008b; text-decoration: underline; display: block;}
 ul#likes{font-family: 'courier';}
 h2{font-family:'optima';}

@@ -6,5 +6,5 @@ const isRevealed = getElementById('struggles')
 isRevealed.style.visibility = 'hidden'
 const showMe = document.getElementById('clickEvent')
 
-function reveal (){isRevealed.style.visibility = 'visible'}
+function reveal (event){isRevealed.style.visibility = 'visible'}
 showMe.addEventListener('click', reveal)
