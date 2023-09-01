@@ -2,7 +2,8 @@ const h2 = document.createElement('h2"')
 h2.textContent = 'This content added by JavaScript'
 document.querySelector('body').appendChild('h2')
 
-const isRevealed = getElementById('popover')
+const isRevealed = getElementById('struggles')
 
-function displayText(){isRevealed.style.display = 'block'; isRevealed.style.visibility='visible'}
-function hideText(){isRevealed.style.display = 'none'; isRevealed.style.visibility= 'hidden'}
+
+function displayText(){document.getElementById('struggles').style.visibility='visible'}
+function hideText(){document.getElementById('struggles').style.visibility= 'hidden'}
