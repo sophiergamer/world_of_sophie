@@ -1,8 +1,13 @@
 body { background: #ff69b4}
 a:link {color:aqua}
 a:visited {color:#fff000}
+#sew{color:#ff1493}
+#bake{color:#cd853f}
+#garden{color: #228b22;}
+#lay{color: #ffd700}
+#dog{color:#778899}
 img{width: 300px ;}
 h1{font-family: 'Luminari', fantasy;}
-#struggles{font-family: 'Trattatello', fantasy; color:#8b008b; visibility: 'hidden';}
+#struggles{font-family: 'Trattatello', fantasy; color:#8b008b; display:'none'; visibility:'hidden';}
 ul#likes{font-family: 'courier';}
 h2{font-family:'optima';}
